@@ -1,0 +1,14 @@
+{
+  "name": "second-project",
+  "version": "1",
+  "description": "typescript-pratice",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "author": "Ryan Yeh",
+  "license": "MIT"
+}
